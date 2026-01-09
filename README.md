@@ -24,4 +24,4 @@ Treino selecionado:
 - Funções personalizadas (escolher_treino, escolha_musculo)
 - Entrada e saída com input() e print() customizado
 ## Sobre o autor
-Feito por Miguel Ferreira, estudante e entusiasta de programação. 
+Feito por Miguel Ferreira, estudante de Análise e Desenvolvimento de Sistemas (ADS) e entusiasta de Python e programação.
